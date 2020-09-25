@@ -1,1 +1,1 @@
-# trex-game
+# manley game 
